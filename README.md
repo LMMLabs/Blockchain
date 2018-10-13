@@ -1,2 +1,2 @@
 # Blockchain
-This repository will contain all of the research results including tested and/or developed by LMM Labs.
+This repository will contain all Blockchain research results including code tested and/or developed by LMM Labs.
